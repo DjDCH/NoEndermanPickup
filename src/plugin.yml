@@ -1,0 +1,6 @@
+name: NoEndermanPickup
+description: Prevent Enderman from picking up blocks.
+author: DjDCH
+main: com.djdch.bukkit.noendermanpickup.NoEndermanPickup
+version: 0.1
+website: http://dev.bukkit.org/server-mods/noendermanpickup/
