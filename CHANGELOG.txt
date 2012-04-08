@@ -1,0 +1,9 @@
+NoEndermanPickup - Version 0.1
+----------------------------
+    * First release
+    * Builded with Bukkit #1360
+    * Tested with CraftBukkit #1988
+    
+    Major features changes
+    -----------------------
+    * Prevent Enderman from picking up blocks.
